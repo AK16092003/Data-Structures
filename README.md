@@ -1,5 +1,5 @@
 # Data-Structures
-Data structures - semester 3 programs   
+Data structures - semester 3 programs discussed in class
 done in C Language
 
 ## programs done
