@@ -6,3 +6,4 @@ done in C Language
 1) array
 2) stack
 3) postfix - stack application
+4) queue
