@@ -1,5 +1,6 @@
 # Data-Structures
-Data structures - Semester III CSPC32 Course Contents
+Data structures   
+Semester III CSPC32 Course Contents
 done in C Language
 
 ## programs done
