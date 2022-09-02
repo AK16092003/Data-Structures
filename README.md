@@ -7,7 +7,7 @@ done in C Language
  - [x] array
  - [x] stack
  - [x] postfix - stack application
- - [x] queue
+ - [x] queue implementation
  - [x] queue using 2 stacks
  - [x] sparse matrix representation
  - [x] Singlylinked list 
