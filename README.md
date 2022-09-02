@@ -11,4 +11,5 @@ done in C Language
  - [x] queue using 2 stacks
  - [x] sparse matrix representation
  - [x] Singlylinked list 
+ - [x] Doublylinked list 
  - [x] Singly linked list- reverse traversal
