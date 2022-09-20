@@ -67,7 +67,9 @@ void insert_middle(int x , int ind)
 	}
 	q->prev = p;
 	q->next = p->next;
+	p->next->prev = q;
 	p->next = q;
+	
 }
 
 void insert_end(int x)
