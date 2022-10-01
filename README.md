@@ -12,4 +12,6 @@ done in C Language
  - [x] sparse matrix representation
  - [x] Singlylinked list 
  - [x] Doublylinked list 
+ - [x] Circular linked list 
  - [x] Singly linked list- reverse traversal
+ - [x] Binary Search Tree
