@@ -18,7 +18,7 @@ done in C Language
  - [ ] AVL Tree
  - [ ] Red Black Tree
  - [x] Adjacency List and Adjacency Matrix
- - [ ] DFS
+ - [x] DFS
  - [ ] BFS
  - [ ] Topological sort
- - [ ] Strongly Connected Components
+ - [x] Strongly Connected Components
