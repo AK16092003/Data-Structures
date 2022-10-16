@@ -15,3 +15,10 @@ done in C Language
  - [x] Circular linked list 
  - [x] Singly linked list- reverse traversal
  - [x] Binary Search Tree
+ - [ ] AVL Tree
+ - [ ] Red Black Tree
+ - [x] Adjacency List and Adjacency Matrix
+ - [ ] DFS
+ - [ ] BFS
+ - [ ] Topological sort
+ - [ ] Strongly Connected Components
