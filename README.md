@@ -15,7 +15,7 @@ done in C Language
  - [x] Circular linked list 
  - [x] Singly linked list- reverse traversal
  - [x] Binary Search Tree
- - [ ] AVL Tree
+ - [x] AVL Tree
  - [ ] Red Black Tree
  - [x] Adjacency List and Adjacency Matrix
  - [x] DFS
