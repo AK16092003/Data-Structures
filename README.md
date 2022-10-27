@@ -22,3 +22,4 @@ done in C Language
  - [ ] BFS
  - [ ] Topological sort
  - [x] Strongly Connected Components
+ - [x] Dijkstra
