@@ -23,3 +23,5 @@ done in C Language
  - [ ] Topological sort
  - [x] Strongly Connected Components
  - [x] Dijkstra
+ - [x] Heap Sort
+ 
