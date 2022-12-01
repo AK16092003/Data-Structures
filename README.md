@@ -21,7 +21,7 @@ done in C Language
  - [x] DFS
  - [ ] BFS
  - [ ] Topological sort
- - [x] Strongly Connected Components
+ - [x] Connected Components
  - [x] Dijkstra
  - [x] Heap Sort
  - [x] Merge sort
