@@ -24,4 +24,5 @@ done in C Language
  - [x] Strongly Connected Components
  - [x] Dijkstra
  - [x] Heap Sort
+ - [x] Merge sort
  
