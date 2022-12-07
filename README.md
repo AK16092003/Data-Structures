@@ -25,4 +25,5 @@ done in C Language
  - [x] Dijkstra
  - [x] Heap Sort
  - [x] Merge sort
+ - [x] Hash Table Implementation
  
