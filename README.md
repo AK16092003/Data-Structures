@@ -1,7 +1,8 @@
 # Data-Structures
 Data structures   
 Semester III CSPC32 Course Contents
-done in C Language
+Semester  IV CSPC42 Course Contents
+done in C/C++ Language
 
 ## programs done
  - [x] array
